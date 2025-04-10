@@ -2,4 +2,6 @@
 
  Hi Everyone, I Welcome you to My SALESFORCE REPO, Which is Highly Helpful for Salesforce CRM Learners.
 
+ (I recommend Everyone to download this repo as Zipfile and use it in LocalHost) To Download --> Click Code Button --> Download Zip.
+
  By - Gowtham Palaniappan 
