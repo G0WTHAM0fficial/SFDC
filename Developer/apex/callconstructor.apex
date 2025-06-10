@@ -1,0 +1,1 @@
+SecondClass obj=new SecondClass();
